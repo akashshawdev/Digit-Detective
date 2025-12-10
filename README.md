@@ -2,6 +2,7 @@
 Crack the code! Guess the mystery number between 1-20 using smart deduction.
 
 ## 🚀 Live Demo
+**[Play Digit Detective Now!](#)** *(your-live-project-link-here)*
 
 # 🔍 Digit Detective
 
@@ -26,8 +27,6 @@ A sleek number guessing game where your detective skills are put to the test. Th
 - Real-time hints and feedback
 - Score tracking system
 - Instant restart for endless detective work
-
-**[Play Digit Detective Now!](#)** *(your-live-project-link-here)*
 
 ## 🛠️ Technologies Used
 
