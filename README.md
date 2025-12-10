@@ -2,7 +2,7 @@
 Crack the code! Guess the mystery number between 1-20 using smart deduction.
 
 ## 🚀 Live Demo
-**[[Play Digit Detective Now!](#)](https://akashshawdev.github.io/Digit-Detective/)**
+**[Play Digit Detective Now!](https://akashshawdev.github.io/Digit-Detective/)**
 
 # 🔍 Digit Detective
 
